@@ -2,6 +2,10 @@
 [![Build Status](https://travis-ci.org/OCA/sale-workflow.svg?branch=12.0)](https://travis-ci.org/OCA/sale-workflow)
 [![codecov](https://codecov.io/gh/OCA/sale-workflow/branch/12.0/graph/badge.svg)](https://codecov.io/gh/OCA/sale-workflow)
 
+BT Customizations
+==================
+New module sale_fixed_discount. Not yet sent to OCA
+
 Odoo Sales, Workflow and Organization
 ======================================
 
