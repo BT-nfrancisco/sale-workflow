@@ -4,7 +4,11 @@
 
 BT Customizations
 ==================
-New module sale_fixed_discount. Not yet sent to OCA
+
+Open OCA PRs merged
+
+(https://github.com/OCA/sale-workflow/pull/910) sale_fixed_discount
+
 
 Odoo Sales, Workflow and Organization
 ======================================
@@ -23,5 +27,3 @@ Translation Status
 ------------------
 [![Transifex Status](https://www.transifex.com/projects/p/OCA-sale-workflow-12-0/chart/image_png)](https://www.transifex.com/projects/p/OCA-sale-workflow-12-0)
 
-
-PR To OCA: https://github.com/OCA/sale-workflow/pull/910
