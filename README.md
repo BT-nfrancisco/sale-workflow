@@ -5,9 +5,9 @@
 BT Customizations
 ==================
 
-Open OCA PRs merged
+New BT migration not yet merged
 
-(https://github.com/OCA/sale-workflow/pull/910) sale_fixed_discount
+- (https://github.com/OCA/sale-workflow/pull/910) sale_fixed_discount
 
 
 Odoo Sales, Workflow and Organization
