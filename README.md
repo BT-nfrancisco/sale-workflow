@@ -22,3 +22,6 @@ This project aim to deal with modules related to manage sale and their related w
 Translation Status
 ------------------
 [![Transifex Status](https://www.transifex.com/projects/p/OCA-sale-workflow-12-0/chart/image_png)](https://www.transifex.com/projects/p/OCA-sale-workflow-12-0)
+
+
+PR To OCA: https://github.com/OCA/sale-workflow/pull/910
