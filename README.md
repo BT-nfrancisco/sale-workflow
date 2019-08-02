@@ -7,7 +7,7 @@ BT Customizations
 
 New BT migration not yet merged
 
-- (https://github.com/OCA/sale-workflow/pull/910) sale_fixed_discount
+- (https://github.com/OCA/sale-workflow/pull/910) sale_fixed_discount (Closed). There was another PR already there https://github.com/OCA/sale-workflow/pull/866. As soon as it's merged we can switch to 12.0
 
 
 Odoo Sales, Workflow and Organization
