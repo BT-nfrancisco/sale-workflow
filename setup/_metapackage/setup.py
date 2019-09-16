@@ -18,6 +18,7 @@ setuptools.setup(
         'odoo12-addon-sale_double_validation',
         'odoo12-addon-sale_exception',
         'odoo12-addon-sale_force_invoiced',
+        'odoo12-addon-sale_invoice_plan',
         'odoo12-addon-sale_last_price_info',
         'odoo12-addon-sale_merge_draft_invoice',
         'odoo12-addon-sale_milestone_profile_invoicing',
@@ -26,6 +27,7 @@ setuptools.setup(
         'odoo12-addon-sale_order_digitized_signature',
         'odoo12-addon-sale_order_general_discount',
         'odoo12-addon-sale_order_invoicing_finished_task',
+        'odoo12-addon-sale_order_line_description',
         'odoo12-addon-sale_order_line_input',
         'odoo12-addon-sale_order_line_price_history',
         'odoo12-addon-sale_order_line_sequence',
@@ -35,6 +37,7 @@ setuptools.setup(
         'odoo12-addon-sale_partner_incoterm',
         'odoo12-addon-sale_product_set',
         'odoo12-addon-sale_stock_picking_blocking',
+        'odoo12-addon-sale_validity',
     ],
     classifiers=[
         'Programming Language :: Python',
